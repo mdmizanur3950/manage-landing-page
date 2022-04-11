@@ -21,5 +21,5 @@ I have done this project as a learnign process for Tailwind Framework. And this 
 
 ## Author
 
-- Website - [Add your name here](https://www.mdmizanurrahman.com/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mdmizanur3950)
+- Website - https://www.mdmizanurrahman.com/
+- Frontend Mentor - https://www.frontendmentor.io/profile/mdmizanur3950
